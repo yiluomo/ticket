@@ -1,0 +1,86 @@
+2025-11-02 14:35:46,106 - TicketSniper - INFO - 启动B站展会抢票...
+2025-11-02 14:40:46,177 - TicketSniper - ERROR - 程序异常: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2025-11-02 14:42:40,904 - TicketSniper - INFO - 启动B站展会抢票...
+2025-11-02 14:47:40,957 - TicketSniper - ERROR - 程序异常: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2025-11-02 14:50:04,495 - TicketSniper - INFO - 启动B站展会抢票...
+2025-11-02 14:55:04,560 - TicketSniper - ERROR - 程序异常: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2025-11-02 14:56:06,987 - TicketSniper - INFO - 启动B站展会抢票...
+2025-11-02 14:56:06,987 - TicketSniper - ERROR - 程序异常: WebDriver.__init__() got an unexpected keyword argument 'executable_path'
+2025-11-02 14:56:15,528 - TicketSniper - INFO - 启动B站展会抢票...
+2025-11-02 14:56:15,528 - TicketSniper - ERROR - 程序异常: WebDriver.__init__() got an unexpected keyword argument 'executable_path'
+2025-11-02 14:57:05,039 - TicketSniper - INFO - 启动B站展会抢票...
+2025-11-02 14:57:06,267 - BilibiliTicket - INFO - 开始登录B站...
+2025-11-02 14:57:07,342 - BilibiliTicket - INFO - 请在浏览器中手动完成登录操作...
+2025-11-02 14:59:43,455 - BilibiliTicket - ERROR - 抢票过程发生异常: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2025-11-02 14:59:43,456 - TicketSniper - INFO - 用户中断程序
+2025-11-02 14:59:54,945 - TicketSniper - INFO - 启动大麦网抢票...
+2025-11-02 14:59:55,998 - DamaiTicket - INFO - 开始登录大麦网...
+2025-11-02 14:59:57,586 - DamaiTicket - INFO - 请在浏览器中手动完成登录操作...
+2025-11-02 15:00:36,631 - DamaiTicket - INFO - 登录成功!
+2025-11-02 15:00:36,677 - DamaiTicket - INFO - Cookies已保存
+2025-11-02 15:00:36,678 - DamaiTicket - INFO - 正在打开演出页面: 
+2025-11-02 15:00:36,725 - DamaiTicket - ERROR - 抢票过程发生异常: Message: invalid argument
+  (Session info: chrome=142.0.7444.60)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff684ae7a35
+	0x7ff684ae7a90
+	0x7ff6848614b5
+	0x7ff68484df53
+	0x7ff68484c2cd
+	0x7ff68484c99c
+	0x7ff6848659ba
+	0x7ff68490c72e
+	0x7ff6848e297a
+	0x7ff68490b8fb
+	0x7ff6848ab068
+	0x7ff6848abe93
+	0x7ff684da29d0
+	0x7ff684d9ce50
+	0x7ff684dbcc45
+	0x7ff684b030ce
+	0x7ff684b0adbf
+	0x7ff684af0c14
+	0x7ff684af0dcf
+	0x7ff684ad6828
+	0x7ffa749f7374
+	0x7ffa75afcc91
+
+2025-11-02 15:01:36,728 - TicketSniper - INFO - 抢票任务已完成
+2025-11-02 15:01:57,861 - TicketSniper - INFO - 启动大麦网抢票...
+2025-11-02 15:01:58,932 - DamaiTicket - INFO - 开始登录大麦网...
+2025-11-02 15:02:00,269 - DamaiTicket - INFO - 请在浏览器中手动完成登录操作...
+2025-11-02 15:02:35,647 - DamaiTicket - INFO - 登录成功!
+2025-11-02 15:02:35,728 - DamaiTicket - INFO - Cookies已保存
+2025-11-02 15:02:35,729 - DamaiTicket - INFO - 正在打开演出页面: 
+2025-11-02 15:02:35,732 - DamaiTicket - ERROR - 抢票过程发生异常: Message: invalid argument
+  (Session info: chrome=142.0.7444.60)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff684ae7a35
+	0x7ff684ae7a90
+	0x7ff6848614b5
+	0x7ff68484df53
+	0x7ff68484c2cd
+	0x7ff68484c99c
+	0x7ff6848659ba
+	0x7ff68490c72e
+	0x7ff6848e297a
+	0x7ff68490b8fb
+	0x7ff6848ab068
+	0x7ff6848abe93
+	0x7ff684da29d0
+	0x7ff684d9ce50
+	0x7ff684dbcc45
+	0x7ff684b030ce
+	0x7ff684b0adbf
+	0x7ff684af0c14
+	0x7ff684af0dcf
+	0x7ff684ad6828
+	0x7ffa749f7374
+	0x7ffa75afcc91
+
+2025-11-02 15:03:35,735 - TicketSniper - INFO - 抢票任务已完成

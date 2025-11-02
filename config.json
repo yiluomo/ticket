@@ -1,0 +1,30 @@
+{
+    "damai": {
+        "username": "",
+        "password": "",
+        "manual_login": true,
+        "show_browser": true,
+        "keep_browser": true,
+        "save_cookies": true,
+        "cookie_path": "",
+        "target_url": "",
+        "ticket_type": "",
+        "allow_other_ticket": true,
+        "ticket_count": 1,
+        "retry_times": 10,
+        "sale_time": ""
+    },
+    "bilibili": {
+        "manual_login": true,
+        "show_browser": true,
+        "keep_browser": true,
+        "save_cookies": true,
+        "cookie_path": "",
+        "target_url": "",
+        "ticket_type": "",
+        "allow_other_ticket": true,
+        "ticket_count": 1,
+        "retry_times": 10,
+        "sale_time": ""
+    }
+}
